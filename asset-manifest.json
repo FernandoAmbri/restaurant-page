@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.81bc6d8e.css",
-    "main.js": "/static/js/main.eeaae0f1.js",
-    "static/media/pizza-ingredients.jpg": "/static/media/pizza-ingredients.34a411868504100075c7.jpg",
-    "static/media/cuttingboard.jpg": "/static/media/cuttingboard.2b529cca9fae5d5fee49.jpg",
-    "static/media/image-background-people.jpg": "/static/media/image-background-people.a41cfd521360047bba0d.jpg",
-    "static/media/pizza-header-menu.jpg": "/static/media/pizza-header-menu.544f61c022a848cc240a.jpg",
-    "static/media/waitress-background.jpg": "/static/media/waitress-background.e22dbb0d5e942cde9a96.jpg",
-    "static/media/about-background.jpg": "/static/media/about-background.7187f51360e131216308.jpg",
-    "index.html": "/index.html",
-    "main.81bc6d8e.css.map": "/static/css/main.81bc6d8e.css.map",
-    "main.eeaae0f1.js.map": "/static/js/main.eeaae0f1.js.map"
+    "main.css": "/restaurant-page/static/css/main.210a25b3.css",
+    "main.js": "/restaurant-page/static/js/main.eeaae0f1.js",
+    "static/media/pizza-ingredients.jpg": "/restaurant-page/static/media/pizza-ingredients.34a411868504100075c7.jpg",
+    "static/media/cuttingboard.jpg": "/restaurant-page/static/media/cuttingboard.2b529cca9fae5d5fee49.jpg",
+    "static/media/image-background-people.jpg": "/restaurant-page/static/media/image-background-people.a41cfd521360047bba0d.jpg",
+    "static/media/pizza-header-menu.jpg": "/restaurant-page/static/media/pizza-header-menu.544f61c022a848cc240a.jpg",
+    "static/media/waitress-background.jpg": "/restaurant-page/static/media/waitress-background.e22dbb0d5e942cde9a96.jpg",
+    "static/media/about-background.jpg": "/restaurant-page/static/media/about-background.7187f51360e131216308.jpg",
+    "index.html": "/restaurant-page/index.html",
+    "main.210a25b3.css.map": "/restaurant-page/static/css/main.210a25b3.css.map",
+    "main.eeaae0f1.js.map": "/restaurant-page/static/js/main.eeaae0f1.js.map"
   },
   "entrypoints": [
-    "static/css/main.81bc6d8e.css",
+    "static/css/main.210a25b3.css",
     "static/js/main.eeaae0f1.js"
   ]
 }
