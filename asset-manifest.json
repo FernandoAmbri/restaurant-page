@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/restaurant-page/static/css/main.210a25b3.css",
+    "main.css": "/restaurant-page/static/css/main.58b11c69.css",
     "main.js": "/restaurant-page/static/js/main.f045a8a2.js",
     "static/media/pizza-ingredients.jpg": "/restaurant-page/static/media/pizza-ingredients.34a411868504100075c7.jpg",
     "static/media/cuttingboard.jpg": "/restaurant-page/static/media/cuttingboard.2b529cca9fae5d5fee49.jpg",
@@ -9,11 +9,11 @@
     "static/media/waitress-background.jpg": "/restaurant-page/static/media/waitress-background.e22dbb0d5e942cde9a96.jpg",
     "static/media/about-background.jpg": "/restaurant-page/static/media/about-background.7187f51360e131216308.jpg",
     "index.html": "/restaurant-page/index.html",
-    "main.210a25b3.css.map": "/restaurant-page/static/css/main.210a25b3.css.map",
+    "main.58b11c69.css.map": "/restaurant-page/static/css/main.58b11c69.css.map",
     "main.f045a8a2.js.map": "/restaurant-page/static/js/main.f045a8a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.210a25b3.css",
+    "static/css/main.58b11c69.css",
     "static/js/main.f045a8a2.js"
   ]
 }
